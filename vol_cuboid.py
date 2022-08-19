@@ -1,0 +1,5 @@
+l=input("length")
+w=input("width")
+h=input("height")
+T=int(l)*int(w)*int(h)
+print(T)
